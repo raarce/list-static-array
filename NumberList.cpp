@@ -1,4 +1,4 @@
-// Implementation file for the NumberList class
+//// Implementation file for the NumberList class
 #include <iostream>  // For cout  and NULL
 #include "NumberList.h"
 using namespace std;
